@@ -1,0 +1,14 @@
+h1{
+  color: red;
+  font-family: 'Comic Sans MS';
+  background-color: black;  
+}
+
+img{
+  height: 25%;
+  width: 25%;
+}
+
+p {
+  font-size: 6em;
+}
